@@ -4,6 +4,7 @@ const path = require('path');
 const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
+    "maksym"
 ];
 
 if (studentsFiles.length === 0) {
