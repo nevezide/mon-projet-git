@@ -4,6 +4,7 @@ const path = require('path');
 const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
+<<<<<<< HEAD
     'marie-E',
     "maksym",
     'phuong',
@@ -15,6 +16,9 @@ const studentsFiles = [
    "daniel",
    'Janel',
    'gael'
+=======
+    "maksym"
+>>>>>>> feat-say-maksym
 ];
 
 if (studentsFiles.length === 0) {
