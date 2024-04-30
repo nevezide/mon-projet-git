@@ -3,12 +3,8 @@ const path = require('path');
 
 const STUDENTS_FILES_PATH = 'students';
 
-<<<<<<< HEAD
 const studentsFiles = [
     "maksym"
-=======
-const studentsFiles = [marionSlay
->>>>>>> 15d97b941ebc737a64c540c7a319cd7f4e35502f
 ];
 
 if (studentsFiles.length === 0) {
