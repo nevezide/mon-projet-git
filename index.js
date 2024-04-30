@@ -4,16 +4,7 @@ const path = require('path');
 const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
-<<<<<<< HEAD
     "maksym"
-=======
-    'phuong',
-    'Nafion',
-    'nicolas',
-    'laure',
-    'benjamin',
-    'marionSlay'
->>>>>>> 40fcd28fc0e966e7a88412c90328f986ddd1aea7
 ];
 
 if (studentsFiles.length === 0) {
