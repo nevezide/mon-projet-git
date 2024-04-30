@@ -4,6 +4,14 @@ const path = require('path');
 const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
+    'marie-E',
+    "maksym",
+    'phuong',
+    'Nafion',
+    'nicolas',
+    'laure',
+    'benjamin',
+    'marionSlay',
    "daniel"
 ];
 
