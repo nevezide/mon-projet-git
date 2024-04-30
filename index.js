@@ -1,9 +1,21 @@
 const fs = require('fs');
 const path = require('path');
 
-const STUDENTS_FILES_PATH = 'students';
+const STUDENTS_FILES_PATH = 'Kilian';
 
-const studentsFiles = [Kilian
+
+const studentsFiles = [
+    'marie-E',
+    "maksym",
+    'phuong',
+    'Nafion',
+    'nicolas',
+    'laure',
+    'benjamin',
+    'marionSlay',
+   "daniel",
+   'Janel',
+   
 ];
 
 if (studentsFiles.length === 0) {
