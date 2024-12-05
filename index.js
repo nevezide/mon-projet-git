@@ -3,7 +3,7 @@ const path = require('path');
 
 const STUDENTS_FILES_PATH = 'students';
 
-const studentsFiles = [
+const studentsFiles = [ "Khardiata",
 ];
 
 if (studentsFiles.length === 0) {
