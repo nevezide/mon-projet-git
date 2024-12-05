@@ -5,10 +5,19 @@ const STUDENTS_FILES_PATH = "students";
 
 const studentsFiles = [
   "Thomas",
+<<<<<<< HEAD
   "Tristan.txt",
   "Tehash",
   "Fabrice",
   "Khardiata",
+=======
+  "Tehash",
+  "Fabrice",
+  "Khardiata",
+  "Ilham",
+  "Joris",
+  "Sabrina",
+>>>>>>> febf7bd2f6e0ef84ff217822400dc18da43faf2c
 ];
 
 if (studentsFiles.length === 0) {
