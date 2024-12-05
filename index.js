@@ -5,6 +5,8 @@ const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
     'Tehash',
+    "Fabrice",
+    "Khardiata",
 ];
 
 if (studentsFiles.length === 0) {
