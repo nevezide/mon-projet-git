@@ -4,6 +4,7 @@ const path = require('path');
 const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
+    "Thomas",
 ];
 
 if (studentsFiles.length === 0) {
@@ -13,6 +14,7 @@ if (studentsFiles.length === 0) {
 
 for (let i = 0 ; i < studentsFiles.length ; i++) {
     const fileName = studentsFiles[i];
+
     
     try {
         const fileContent = fs.readFileSync(
