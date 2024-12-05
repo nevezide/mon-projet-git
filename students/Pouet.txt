@@ -1,1 +1,15 @@
-cacahouète
+La physique quantique est un ensemble de théories physiques nées au XXe siècle, 
+qui décrivent le comportement des atomes et des particules et permettent 
+d'élucider certaines propriétés du rayonnement électromagnétique.
+
+Comme la théorie de la relativité, les théories dites « quantiques » marquent 
+une rupture avec ce que l'on appelle maintenant la physique classique, qui 
+regroupe les théories et principes physiques connus au XIXe siècle — notamment 
+la mécanique newtonienne et la théorie électromagnétique de Maxwell —, et qui ne
+permettait pas d'expliquer certaines propriétés physiques.
+
+La physique quantique recouvre l'ensemble des domaines de la physique où 
+l'utilisation des lois de la mécanique quantique est une nécessité pour 
+comprendre les phénomènes en jeu. La mécanique quantique est la théorie 
+fondamentale des particules de matière constituant les objets de l'univers et 
+des champs de force animant ces objets.
