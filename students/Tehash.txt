@@ -1,1 +1,5 @@
-Chaussette
+Inventaire = {
+Chaussette,
+Vase en bronze,
+Hache durendil
+}
