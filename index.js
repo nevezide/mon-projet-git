@@ -3,7 +3,13 @@ const path = require("path");
 
 const STUDENTS_FILES_PATH = "students";
 
-const studentsFiles = ["Tristan.txt"];
+const studentsFiles = [
+  "Thomas",
+  "Tristan.txt",
+  "Tehash",
+  "Fabrice",
+  "Khardiata",
+];
 
 if (studentsFiles.length === 0) {
   console.log("No student file provided");
