@@ -3,7 +3,19 @@ const path = require('path');
 
 const STUDENTS_FILES_PATH = 'students';
 
+<<<<<<< HEAD
 const studentsFiles = [ilham];
+=======
+const studentsFiles = [
+<<<<<<< HEAD
+    "Thomas",
+=======
+    'Tehash',
+    "Fabrice",
+    "Khardiata",
+>>>>>>> 8c390a41b047a3e2cc18172a46ac302c50663972
+];
+>>>>>>> 46ac0b5c03ec506f2a4be628ee4eea364952eb2f
 
 if (studentsFiles.length === 0) {
     console.log('No student file provided');
@@ -12,6 +24,7 @@ if (studentsFiles.length === 0) {
 
 for (let i = 0 ; i < studentsFiles.length ; i++) {
     const fileName = studentsFiles[i];
+
     
     try {
         const fileContent = fs.readFileSync(
