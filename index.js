@@ -11,7 +11,6 @@ const studentsFiles = [
   "Khardiata",
   "Tehash",
   "Fabrice",
-  "Khardiata",
   "Ilham",
   "Joris",
   "Sabrina",
@@ -34,10 +33,10 @@ for (let i = 0; i < studentsFiles.length; i++) {
       "utf-8"
     );
 
-    console.log(`---- Student file ${fileName} content ----`);
-    console.log(fileContent);
-  } catch (err) {
-    console.error(`Error when reading file ${fileName}`);
-    console.error(err);
-  }
+    } catch (err) {
+        console.error(`Error when reading file ${fileName}`);
+        console.error(err);
+    }
 }
+console.log(`---- Student file ${fileName} content ----`);
+console.log(fileContent);
