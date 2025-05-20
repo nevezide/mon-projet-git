@@ -5,6 +5,12 @@ const STUDENTS_FILES_PATH = 'students';
 
 const studentsFiles = [
     'Julian',
+    "Said",
+    'Tom',
+    'Mina',
+    'Morgan',
+    'Paul',
+    'Fabrice',
 ];
 
 if (studentsFiles.length === 0) {
