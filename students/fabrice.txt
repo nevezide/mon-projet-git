@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 dsadadadad
-=======
 coucou
->>>>>>> 24d54f77b855657cf25af2a25ebefd90626c94f6
